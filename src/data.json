@@ -1,0 +1,522 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Ifa</b> <span><br />Aprillianto</span>",
+    "subTitle": "<span>Fullstack Developer</span> ",
+    "ImgLink": "/images/foto1.png",
+    "phone": "081919898656",
+    "email": "ifa.aprillianto@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "",
+        "icon": "dribbble"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/foto.png",
+      "name": "Ifa Aprillianto",
+      "designation": "Fullstack Developer <span>based in</span> IDN",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "Born in 2001, AB type living in Indonesia. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "081919898656"
+        },
+        {
+          "icon": "person",
+          "data": "Ifa Aprillianto"
+        },
+        {
+          "icon": "envelope",
+          "data": "ifa.aprill@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "Purwokerto"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "4+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Ifa Aprillianto</span>. I am a Fullstack Developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "10+",
+          "meta": "Project <br /> More...",
+          "text": "With 10+ project experience as a Fullstack Developer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“Don't wait till you're ready,because you’re never going to be 100% ready"
+    }
+  },
+  "experienceData": {
+    "text": "Hello there! My name is Ifa Aprillianto. I am a Fullstack Developer, and Im very passionate and dedicated to my work.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2023",
+        "end": "Present",
+        "title": "PT Cazh Teknologi Inovasi",
+        "subtitle": "Fullstack Developer "
+      },
+      {
+        "start": "02-2023",
+        "end": "06-2023",
+        "title": "PT Pegadaian",
+        "subtitle": "Database Anlayze & Web Developer"
+      },
+      {
+        "start": "07-2019",
+        "end": "09-2019",
+        "title": "Sekretariat DPRD Kab.Banyumas",
+        "subtitle": "IT Support Specialist"
+      },
+      {
+        "start": "11-2018",
+        "end": "03-2019",
+        "title": "CV.SIC Yogyakarta",
+        "subtitle": "Fullstack Developer "
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Frontend Development",
+      "heading": "Designing with precision, I turn complex designs into user-friendly, engaging digital experiences",
+      "triger": "One",
+      "imgLink": "/images/frontend1.png",
+      "text": "As a Frontend Developer with expertise in React JS, Tailwind CSS, Bootstrap, CSS, HTML, and JavaScript, I specialize in crafting responsive and interactive web interfaces that prioritize performance and user experience. Utilizing React JS, I build dynamic and stateful web applications that are scalable and maintainable. With Tailwind CSS, I implement custom and responsive design systems quickly and efficiently, while Bootstrap aids in creating mobile-first interfaces with a standardized and familiar UI."
+    },
+    {
+      "title": "Backend Development",
+      "heading": "Engineering robust and scalable server-side logic, I ensure seamless data flow and high performance for web applications. ",
+      "triger": "Two",
+      "imgLink": "/images/backend1.png",
+      "text": "As a Backend Developer, my expertise lies in crafting the core logic behind user-facing applications. I possess a strong command of PHP, the server-side scripting language that powers a significant portion of the web. My proficiency with Laravel, an elegant PHP framework, enables me to construct robust, maintainable, and secure web applications with ease. Laravel’s expressive syntax and its ecosystem enhance my productivity and provide a wide array of tools to deliver high-quality software."
+    },
+    {
+      "title": "Web Design",
+      "heading": "Creating visually striking and user-centric web designs, I blend aesthetics with functionality to build websites that captivate and provide seamless user experiences.",
+      "triger": "Three",
+      "imgLink": "/images/webDesign.jpg",
+      "text": "As a Web Designer, my expertise lies in creating visually appealing, highly functional websites that enhance user engagement and experience. With a keen eye for design aesthetics, I blend modern design principles with user-centric layouts. My proficiency in visual design tools allows me to craft interfaces that are both attractive and intuitive, while my understanding of UX principles ensures these designs are accessible and easy to navigate."
+    },
+    {
+      "title": "User Research",
+      "heading": "In the realm of User Research, I employ a variety of methodologies to gather crucial insights into user behavior, preferences, and needs. ",
+      "triger": "Four",
+      "imgLink": "/images/user.jpg",
+      "text": "In the realm of User Research, I employ a variety of methodologies to gather crucial insights into user behavior, preferences, and needs. This intelligence drives the design and development of products that resonate with the target audience. By rigorously analyzing user feedback and behavior patterns, I craft user experiences that are not only intuitive and engaging but also deeply aligned with the users' expectations and goals. This user-centered approach ensures that the end product delivers value and satisfaction, fostering loyalty and user retention."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/aceptor.png",
+      "subTitle": "Fullstack Developer",
+      "title": "Aceptor Webiste",
+      "link": "https://github.com/laahh/Aceptor",
+      "paragraphList": [
+        {
+          "text": "Aceptor (Ayo Cegah Penularan Tuberkulosis)Aceptor (Ayo Cegah Penularan Tuberkulosis) Developed a website aimed at educating the public about tuberculosis (TB). The platform serves as an informative resource to raise awareness and prevent the spread of TB."
+        },
+        {
+          "text": "Login with Google Account: Users can log in to the website using their Google account for ease and convenience."
+        },
+        {
+          "text": "Registration with Email Verification: New users can register on the website, with a process that includes email verification to ensure security and authenticity."
+        },
+        {
+          "text": "Article CRUD (Create, Read, Update, Delete): The website offers functionality to create, read, update, and delete articles. This allows for dynamic content management, particularly useful for updating health information and news."
+        },
+        {
+          "text": "Hospital CRUD (Create, Read, Update, Delete): Similar to articles, the website enables the management of hospital listings or information with the ability to create, read, update, and delete entries. This is particularly useful for maintaining an up-to-date directory of healthcare facilities."
+        },
+        {
+          "text": "Subscription Feature: Users can subscribe to the website for updates, newsletters, or exclusive content related to Tuberculosis awareness and prevention."
+        },
+        {
+          "text": "Quizzes: Interactive quizzes are available, which can be educational and engaging for users to test their knowledge about Tuberculosis and related health topics."
+        },
+        {
+          "text": "Tech Stack : Laravel TailwindCss"
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/webnapas.png",
+      "subTitle": "Fullstack Developer",
+      "title": "WebNapas",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Developed WebNAPAS, a comprehensive website dedicated to raising awareness and providing solutions for Acute Respiratory Infections (ARI) in Indonesia. This platform functions as an invaluable resource for educating the public about ARI, aiming to increase understanding and prevent the spread of these infections. By offering accurate information, educational tools, and collaborative opportunities for both the community and healthcare professionals, WebNAPAS plays a pivotal role in combating ARI and enhancing public health initiatives in the region."
+        },
+        {
+          "text": "Real-Time Air Quality Monitoring: This feature provides users with real-time updates on air quality, which is crucial for people with respiratory issues and in areas where air pollution is a concern."
+        },
+        {
+          "text": "Real-Time Chat Consultations with Doctors: Users can consult with doctors in real-time through a chat feature. This provides a convenient way for users to seek medical advice without the need for a physical visit."
+        },
+        {
+          "text": "Appointment Scheduling with Doctors: The website offers the ability to schedule appointments with doctors. This feature streamlines the process of arranging medical consultations and helps in managing healthcare schedules more efficiently."
+        },
+        {
+          "text": "E-Commerce for Medications: An e-commerce feature where users can purchase medications. This adds convenience by allowing users to order necessary medicines online."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/laporin.png",
+      "subTitle": "Fullstack Developer",
+      "title": "LaporIn",
+      "link": "https://github.com/laahh/project-magang",
+      "paragraphList": [
+        {
+          "text": "The 'LaporIn' website is an online platform specifically designed for the employees of Pegadaian, especially those in CP Purwokerto. This website's primary features likely include:"
+        },
+        {
+          "text": "Visit Reports: It enables debt collectors to record and report details of their visits to customers, including date, time, and the outcome of the visit."
+        },
+        {
+          "text": "Payment Recording: A facility for documenting information about customer payments or settlement of obligations, including the amount paid and the payment method."
+        },
+        {
+          "text": "Analysis and Reporting: The ability to analyze data collected from visits, which can aid in devising more effective debt collection strategies."
+        },
+        {
+          "text": "Customer Data Upload via CSV: This feature allows for the efficient uploading of customer data using CSV files, streamlining the process of updating and managing customer information."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/teamup.png",
+      "subTitle": "Fullstack Developer",
+      "title": "TeamUp",
+      "link": "https://github.com/laahh/project-magang",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/magenta.png",
+      "subTitle": "Frontend Developer",
+      "title": "Magenta Diamond",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/lelang.PNG",
+      "subTitle": "Fullstack Developer",
+      "title": "Lelang Pegadaian",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/magenta.png",
+      "subTitle": "Fullstack Developer",
+      "title": "CvIn",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/posin.PNG",
+      "subTitle": "Fullstack Developer",
+      "title": "POSin",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "A Point of Sale (POS) application is a vital tool used in various retail and hospitality businesses to facilitate sales transactions. It's a modern replacement for traditional cash registers, combining software and hardware to create a comprehensive sales system. Key components and features of a POS application include:"
+        },
+        {
+          "text": "Transaction Processing: It handles the core function of processing sales transactions. This includes scanning items, adding them to the transaction, calculating totals, and processing payments."
+        },
+        {
+          "text": "Inventory Management: Many POS systems come with inventory management features, allowing businesses to track stock levels, reorder products, and manage suppliers."
+        },
+        {
+          "text": "Sales Reporting and Analytics: POS applications often provide comprehensive reporting features, enabling businesses to analyze sales data, understand customer preferences, and make informed business decisions."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/juara2lagi.jpeg",
+      "date": "12 November, 2023",
+      "delay": "700",
+      "title": "Runner-up Web Developer Competition at Sriwijaya University",
+      "paragraphList": [
+        {
+          "text": "Runner-up in National Level Web Developer Competition at Technologyeuphoria, Sriwijaya University"
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/juara2.png",
+      "date": "10 jan 2023",
+      "delay": "800",
+      "title": "Runner-up Web Developer Competition at ITTP",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/1.jpeg",
+      "date": "10 July, 2023",
+      "delay": "900",
+      "title": "#1 Best Intern at PT Pegadian as a Database Analyst.",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/sertif.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": " Course Udemy Laravel REST API ",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ifa Aprillianto",
+          "designation": "Fullstack Developer",
+          "text": "WebNapas('WebNAPAS (Website Nasional untuk Pemberantasan dan Aplikasi Solusi ISPA')"
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ifa Aprillianto",
+          "designation": "Fullstack Developer",
+          "text": " Aceptor (Ayo Cegah Penularan Tuberkulosis)"
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat to us",
+        "text": "Our friendly team is there to help.",
+        "emailLink": "ifa.aprillianto@gmail.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit us",
+        "text": "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City"
+      },
+      {
+        "icon": "phone",
+        "title": "Call us",
+        "text": "Mon-Fri from 8am to 5pm. 081919898656"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.png",
+    "name": "Ifa Aprillianto"
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "link": ""
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    },
+    {
+      "icon": "pinterest",
+      "link": ""
+    }
+  ]
+}
