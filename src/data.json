@@ -1,6 +1,6 @@
 {
   "headerData": {
-    "logoDark": "/images/logo.svg",
+    "logoDark": "/images/test.svg",
     "logoLight": "/images/logo-light.svg"
   },
   "heroData": {
@@ -414,7 +414,7 @@
         },
         {
           "imgLink": "/images/avatar-1.jpg",
-          "name": "Ema Watson",
+          "name": "Ifa Aprillianto",
           "designation": "Chief Executive Officer, Brazil",
           "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
         },
