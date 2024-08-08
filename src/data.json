@@ -33,7 +33,7 @@
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
-      "aboutText": "Born in 2001, AB type living in Indonesia. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.",
+      "aboutText": "I am a fresh graduate from Telkom Institute of Technology Purwokerto with an educational background in Information Engineering. During my studies, I have gained significant internship experiences that have shaped my technical and professional skills.",
       "contactInfo": [
         {
           "icon": "phone",
@@ -54,9 +54,9 @@
       ],
       "archivement": [
         {
-          "number": "4+",
+          "number": "2+",
           "meta": "Years <br /> experience...",
-          "text": "Hello there! My name is <span>Ifa Aprillianto</span>. I am a Fullstack Developer, and Im very passionate and dedicated to my work."
+          "text": "I have accumulated two years of valuable internship experience, which has significantly contributed to the development of my technical and professional skills."
         },
         {
           "number": "10+",
@@ -72,8 +72,14 @@
     "resumeCv": "/Resume.pdf",
     "experience": [
       {
-        "start": "2023",
-        "end": "Present",
+        "start": "02-2024",
+        "end": "06-2024",
+        "title": "PT Pegadaian",
+        "subtitle": " Database Anlayze"
+      },
+      {
+        "start": "11-2023",
+        "end": "01-2024",
         "title": "PT Cazh Teknologi Inovasi",
         "subtitle": "Fullstack Developer "
       },
@@ -129,7 +135,107 @@
   ],
   "portfolioData": [
     {
+      "ImgLink": "/images/agenpgd.jpeg",
+      "subTitle": "Database Analyst",
+      "title": "Dashboard Agen Pegadaian",
+      "link": "https://github.com/laahh/Aceptor",
+      "paragraphList": [
+        {
+          "text": "Aceptor (Ayo Cegah Penularan Tuberkulosis)Aceptor (Ayo Cegah Penularan Tuberkulosis) Developed a website aimed at educating the public about tuberculosis (TB). The platform serves as an informative resource to raise awareness and prevent the spread of TB."
+        },
+        {
+          "text": "Login with Google Account: Users can log in to the website using their Google account for ease and convenience."
+        },
+        {
+          "text": "Registration with Email Verification: New users can register on the website, with a process that includes email verification to ensure security and authenticity."
+        },
+        {
+          "text": "Article CRUD (Create, Read, Update, Delete): The website offers functionality to create, read, update, and delete articles. This allows for dynamic content management, particularly useful for updating health information and news."
+        },
+        {
+          "text": "Hospital CRUD (Create, Read, Update, Delete): Similar to articles, the website enables the management of hospital listings or information with the ability to create, read, update, and delete entries. This is particularly useful for maintaining an up-to-date directory of healthcare facilities."
+        },
+        {
+          "text": "Subscription Feature: Users can subscribe to the website for updates, newsletters, or exclusive content related to Tuberculosis awareness and prevention."
+        },
+        {
+          "text": "Quizzes: Interactive quizzes are available, which can be educational and engaging for users to test their knowledge about Tuberculosis and related health topics."
+        },
+        {
+          "text": "Tech Stack : Laravel TailwindCss"
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/lelangpgd.png",
+      "subTitle": "Database Analyst",
+      "title": "Lelang Pegadaian",
+      "link": "https://github.com/laahh/Aceptor",
+      "paragraphList": [
+        {
+          "text": "Aceptor (Ayo Cegah Penularan Tuberkulosis)Aceptor (Ayo Cegah Penularan Tuberkulosis) Developed a website aimed at educating the public about tuberculosis (TB). The platform serves as an informative resource to raise awareness and prevent the spread of TB."
+        },
+        {
+          "text": "Login with Google Account: Users can log in to the website using their Google account for ease and convenience."
+        },
+        {
+          "text": "Registration with Email Verification: New users can register on the website, with a process that includes email verification to ensure security and authenticity."
+        },
+        {
+          "text": "Article CRUD (Create, Read, Update, Delete): The website offers functionality to create, read, update, and delete articles. This allows for dynamic content management, particularly useful for updating health information and news."
+        },
+        {
+          "text": "Hospital CRUD (Create, Read, Update, Delete): Similar to articles, the website enables the management of hospital listings or information with the ability to create, read, update, and delete entries. This is particularly useful for maintaining an up-to-date directory of healthcare facilities."
+        },
+        {
+          "text": "Subscription Feature: Users can subscribe to the website for updates, newsletters, or exclusive content related to Tuberculosis awareness and prevention."
+        },
+        {
+          "text": "Quizzes: Interactive quizzes are available, which can be educational and engaging for users to test their knowledge about Tuberculosis and related health topics."
+        },
+        {
+          "text": "Tech Stack : Laravel TailwindCss"
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/crm.png",
+      "subTitle": "Web Developer",
+      "title": "CRM",
+      "link": "https://github.com/laahh/Aceptor",
+      "paragraphList": [
+        {
+          "text": "Aceptor (Ayo Cegah Penularan Tuberkulosis)Aceptor (Ayo Cegah Penularan Tuberkulosis) Developed a website aimed at educating the public about tuberculosis (TB). The platform serves as an informative resource to raise awareness and prevent the spread of TB."
+        },
+        {
+          "text": "Login with Google Account: Users can log in to the website using their Google account for ease and convenience."
+        },
+        {
+          "text": "Registration with Email Verification: New users can register on the website, with a process that includes email verification to ensure security and authenticity."
+        },
+        {
+          "text": "Article CRUD (Create, Read, Update, Delete): The website offers functionality to create, read, update, and delete articles. This allows for dynamic content management, particularly useful for updating health information and news."
+        },
+        {
+          "text": "Hospital CRUD (Create, Read, Update, Delete): Similar to articles, the website enables the management of hospital listings or information with the ability to create, read, update, and delete entries. This is particularly useful for maintaining an up-to-date directory of healthcare facilities."
+        },
+        {
+          "text": "Subscription Feature: Users can subscribe to the website for updates, newsletters, or exclusive content related to Tuberculosis awareness and prevention."
+        },
+        {
+          "text": "Quizzes: Interactive quizzes are available, which can be educational and engaging for users to test their knowledge about Tuberculosis and related health topics."
+        },
+        {
+          "text": "Tech Stack : Laravel TailwindCss"
+        }
+      ]
+    },
+    {
       "ImgLink": "/images/aceptor.png",
+      "gambar": "/images/aceptor.png",
+      "gambar1": "/images/aceptor1.png",
+      "gambar2": "/images/aceptor2.png",
+      "gambar3": "/images/aceptor3.png",
       "subTitle": "Fullstack Developer",
       "title": "Aceptor Webiste",
       "link": "https://github.com/laahh/Aceptor",
@@ -162,6 +268,7 @@
     },
     {
       "ImgLink": "/images/webnapas.png",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Fullstack Developer",
       "title": "WebNapas",
       "link": "",
@@ -185,6 +292,7 @@
     },
     {
       "ImgLink": "/images/laporin.png",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Fullstack Developer",
       "title": "LaporIn",
       "link": "https://github.com/laahh/project-magang",
@@ -208,6 +316,7 @@
     },
     {
       "ImgLink": "/images/teamup.png",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Fullstack Developer",
       "title": "TeamUp",
       "link": "https://github.com/laahh/project-magang",
@@ -228,6 +337,7 @@
     },
     {
       "ImgLink": "/images/magenta.png",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Frontend Developer",
       "title": "Magenta Diamond",
       "link": "",
@@ -248,6 +358,7 @@
     },
     {
       "ImgLink": "/images/lelang.PNG",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Fullstack Developer",
       "title": "Lelang Pegadaian",
       "link": "",
@@ -267,9 +378,9 @@
       ]
     },
     {
-      "ImgLink": "/images/magenta.png",
+      "ImgLink": "/images/backend1.png",
       "subTitle": "Fullstack Developer",
-      "title": "CvIn",
+      "title": "Ecommerce",
       "link": "",
       "paragraphList": [
         {
@@ -288,6 +399,7 @@
     },
     {
       "ImgLink": "/images/posin.PNG",
+      "imgTest": "/images/aceptor.png",
       "subTitle": "Fullstack Developer",
       "title": "POSin",
       "link": "",
